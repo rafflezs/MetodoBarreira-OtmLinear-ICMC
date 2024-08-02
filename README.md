@@ -17,7 +17,8 @@ As implementações presentes neste repositório foram feitas com proposta educa
 
 1. Acesso o [Google Colab](https://colab.new/)  
 2. Abra o menu de contexto **Arquivo** e selecione a opção **Abrir Notebook**  <img src="https://github.com/user-attachments/assets/613baa3f-b12c-42cd-bb8d-e53fc7fdb931" alt="Passo 2" style="width:500px;"/>  
-3. Selecione o contexto **Github** e insira o link: https://github.com/rafflezs/MetodoBarreira-OtmLinear-ICMC/blob/main/notebook/pontos-interiores.ipynb  <img src="https://github.com/user-attachments/assets/7680d78f-0421-48c3-8f9c-363b8b9fe4bc" alt="Passo 3" style="width:500px;"/> 
+3. Selecione o contexto **Github** e insira o link: https://github.com/rafflezs/MetodoBarreira-OtmLinear-ICMC/blob/main/notebook/pontos-interiores.ipynb
+<img src="https://github.com/user-attachments/assets/7680d78f-0421-48c3-8f9c-363b8b9fe4bc" alt="Passo 3" style="width:500px;"/> 
  
 
 Basta selecionar o arquivo e o mesmo será carregado à página.
