@@ -3,7 +3,7 @@ Trata-se de uma técnica poderosa utilizada na otimização linear para encontra
 É particularmente útil em problemas de larga escala devido sua eficiência computacional, bem como suas aplicações em Otimização Não-Linear.  
 A abordagem se baseia em uma função de barreira que impede que as iterações se aproximem das bordas do espaço viável, permitindo que o algoritmo se concentre nas regiões interiores. Como resultado, o Método dos Pontos Interiores pode convergir rapidamente para a solução ótima, tornando-se uma escolha preferida em muitas aplicações de otimização.
 
-<img src="https://www.researchgate.net/profile/Jeremy-Bleyer/publication/321066801/figure/fig1/AS:567437536841728@1512299059932/General-idea-of-the-interior-point-method-The-central-path-defines-a-set-of.png" alt="Exemplo" style="width:200px;"/>
+<img src="https://github.com/user-attachments/assets/b26ffbfc-3001-454d-99f9-c8d856fbeec4" alt="Exemplo" style="width:500px;"/>  
 Os créditos da imagem são do autor [Jeremy Bleyer](https://www.scopus.com/authid/detail.uri?authorId=55574535900) em seu trabalho [Advances in the simulation of viscoplastic fluid flows using interior-point methods](https://www.sciencedirect.com/science/article/abs/pii/S0045782517307119)
 
 ## Sobre o Projeto
@@ -16,9 +16,9 @@ As implementações presentes neste repositório foram feitas com proposta educa
 
 1. Acesso o [Google Colab](https://colab.new/)
 2. Abra o menu de contexto **Arquivo** e selecione a opção **Abrir Notebook**
-<img src="https://github.com/user-attachments/assets/613baa3f-b12c-42cd-bb8d-e53fc7fdb931" alt="Passo 2" style="width:200px;"/>
+<img src="https://github.com/user-attachments/assets/613baa3f-b12c-42cd-bb8d-e53fc7fdb931" alt="Passo 2" style="width:500px;"/>
 3. Selecione o contexto **Github** e insira o link: https://github.com/rafflezs/MetodoBarreira-OtmLinear-ICMC/blob/main/notebook/pontos-interiores.ipynb
-<img src="https://github.com/user-attachments/assets/7680d78f-0421-48c3-8f9c-363b8b9fe4bc" alt="Passo 3" style="width:200px;"/>
+<img src="https://github.com/user-attachments/assets/7680d78f-0421-48c3-8f9c-363b8b9fe4bc" alt="Passo 3" style="width:500px;"/>
 
 Basta selecionar o arquivo e o mesmo será carregado à página.
 
