@@ -1,5 +1,5 @@
 # Sobre Pontos Interiores
-Pontos Interiores, também conhecido como Método da Barreira, é uma técnica de otimização linear para encontrar soluções de problemas de programação linear. Diferente do Método Simplex, que navega pelas bordas do espaço viável, o Método dos Pontos Interiores percorre o interior do espaço viável para encontrar a solução ótima.  
+Pontos Interiores, também conhecido como Método da Barreira, é uma técnica de otimização linear utilizada para encontrar soluções de problemas de programação linear. Diferente do Método Simplex, que navega pelas bordas do espaço viável, o Método dos Pontos Interiores percorre o interior do espaço viável para encontrar a solução ótima.  
 É particularmente útil em problemas de larga escala devido sua eficiência computacional, bem como suas aplicações em Otimização Não-Linear.  
 A abordagem se baseia em uma função de barreira que impede que as iterações se aproximem das bordas do espaço viável, permitindo que o algoritmo se concentre nas regiões interiores. Como resultado, o Método dos Pontos Interiores pode convergir rapidamente para a solução ótima, tornando-se uma escolha preferida em muitas aplicações de otimização.
 
