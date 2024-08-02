@@ -4,6 +4,7 @@ Trata-se de uma técnica poderosa utilizada na otimização linear para encontra
 A abordagem se baseia em uma função de barreira que impede que as iterações se aproximem das bordas do espaço viável, permitindo que o algoritmo se concentre nas regiões interiores. Como resultado, o Método dos Pontos Interiores pode convergir rapidamente para a solução ótima, tornando-se uma escolha preferida em muitas aplicações de otimização.
 
 <img src="https://github.com/user-attachments/assets/b26ffbfc-3001-454d-99f9-c8d856fbeec4" alt="Exemplo" style="width:500px;"/>  
+
 Os créditos da imagem são do autor [Jeremy Bleyer](https://www.scopus.com/authid/detail.uri?authorId=55574535900) em seu trabalho [Advances in the simulation of viscoplastic fluid flows using interior-point methods](https://www.sciencedirect.com/science/article/abs/pii/S0045782517307119)
 
 ## Sobre o Projeto
